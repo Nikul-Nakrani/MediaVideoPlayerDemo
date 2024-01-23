@@ -50,8 +50,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-## Acknowledgments
-
 We would like to express our gratitude to the following developers and projects for their invaluable contributions to this project:
 
 - [ExoPlayer](https://github.com/google/ExoPlayer) by Google: A powerful and customizable media player for Android. We integrated ExoPlayer for seamless media playback in this app.
