@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Media Video Player Demo</string>
+    <string name="str_select_video">Select Video</string>
+</resources>
